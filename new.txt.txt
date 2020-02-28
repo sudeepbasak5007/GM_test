@@ -1,3 +1,8 @@
 hello world 22
+<<<<<<< HEAD
 hello world
 
+=======
+basak
+lll
+>>>>>>> a0a268dc1c55208c57d5c1fcfa424d156e8e5726
